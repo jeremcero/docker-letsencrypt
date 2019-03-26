@@ -1,0 +1,9 @@
+# editor temporary files
+*~
+*.sw?
+\#*#
+.idea
+.ropeproject
+
+# auth --cert-path --chain-path
+/*.pem
